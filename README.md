@@ -21,6 +21,8 @@ Again like you pointed out, I do not have extensive experience building Vision &
 - I will personally lead the system design & architecture, data pipelines, cloud infrastructure, AI evaluation workflows and the rolling migration to custom models
 
 # Technical
+![alt text](architecture.png)
+
 I have mapped my current and propsed technical understanding of the platform into three sections;
 
 ### 1. Inputs
